@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Los Angeles-Long Beach-Anaheim Metro Area, CA, US",
+  "export_job_id": "93b86eee-5c32-4a13-a6d6-7f5fb429ca10",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 807750,
+  "location_name": "Los Angeles-Long Beach-Anaheim, CA",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-807750",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/807750/beamstation_807750_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
+  "sample_pct": 9.62,
+  "sample_records": 5,
+  "sample_sha256": "7d201ac002c2dbf428db09c6fb8f4eec45001d007e3f2b0ea7aa32681816c5ba",
+  "sample_size_bytes": 34414,
+  "total_records": 52,
+  "updated_at": "2026-04-08T07:13:17.760077+00:00"
+}
