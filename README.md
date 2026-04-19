@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Los Angeles-Long Beach-Anaheim Metro Area, CA, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `807750` |
 | Location | Los Angeles-Long Beach-Anaheim, CA |
 | Category | Restaurants |
-| Full dataset size | 52 records |
-| Free sample size | 5 records (9.62%) |
-| Last export | 2026-04-08T07:13:17.760077+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-15T10:33:39.763741+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-807750/releases/download/sample-latest/beamstation_807750_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
