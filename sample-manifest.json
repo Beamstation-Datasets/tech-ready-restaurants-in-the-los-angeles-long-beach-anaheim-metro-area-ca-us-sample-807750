@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e8dd4c46-804a-46c4-a6a6-96bb5cfd919e",
+  "export_job_id": "4c523bca-e63c-41e6-abd7-8f65fd1821cd",
   "id_short": 807750,
-  "published_at": "2026-04-19T07:39:57Z",
+  "published_at": "2026-04-23T07:27:18Z",
   "repo_name": "tech-ready-restaurants-in-the-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-807750",
   "sample_asset_name": "beamstation_807750_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/807750/beamstation_807750_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "dce7de35a2c0423b3ca1101e474bba643269823bff2a643236ac3eeac76f00b7",
-  "sample_size_bytes": 30933,
-  "total_records": 40
+  "sample_records": 2,
+  "sample_sha256": "742897f0d2eab875e696beb928fe519552b1b321a7e00b4092df8cc9a154ff93",
+  "sample_size_bytes": 23486,
+  "total_records": 26
 }
